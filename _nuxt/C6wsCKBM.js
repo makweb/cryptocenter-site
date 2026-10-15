@@ -1,1 +1,1 @@
-const t="https://cryptocenter-backend-86wky.ondigitalocean.app";export{t as S};
+const t="https://api.cryptocenter.finance";export{t as S};
